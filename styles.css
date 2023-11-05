@@ -1,0 +1,17 @@
+body {
+    background-color: #FCE68E; /* 粉黃色 */
+}
+
+#poem-title {
+    color: red; /* 紅色 */
+    font-size: 36px;
+}
+
+#poem-author {
+    style="color: rgba(139,69,19, 0.9);
+}
+
+#poem-content {
+    color: #A52A2A; /* 棕色 */
+    font-size: 18px;
+}
